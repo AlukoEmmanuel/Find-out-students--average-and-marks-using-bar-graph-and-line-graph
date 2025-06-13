@@ -33,14 +33,35 @@ The dataset (embedded in `main.py`) covers 12 months with 9 columns:
 | 1 | 2500 | 1500 | 5200 | 9200 | 1200 | 1500 | 21100 | 211000 |  
 | 2 | 2630 | 1200 | 5100 | 6100 | 2100 | 1200 | 18330 | 183300 |  
 | 3 | 2140 | 1340 | 4550 | 9550 | 3550 | 1340 | 22470 | 224700 |  
-## 🖼️ Visualizations  
-Explore the data through three stunning plots, saved as PNGs in `images/`:  
-| Figure | Description |  
-|--------|-------------|  
-| Figure 1 | Line plot of monthly profit (red dotted line, black markers). |  
-| Figure 2 | Multi-line plot comparing six products’ sales. |  
-| Figure 3 | Bar plot of face cream vs. face wash sales. |  
-> [!TIP] Click images to enlarge or view PNGs in `images/` for high resolution.  
+## 🖼️ Visualizations
+
+Explore the data through three stunning plots, saved as PNGs in the `images/` folder and displayed below:
+
+---
+
+### 📈 **Figure 1 – Monthly Profit Line Plot**  
+Red dotted line with black markers, formatted as 211K.
+
+[![Figure 1 – Monthly Profit Plot](images/Figure_1.png)](images/Figure_1.png)
+
+---
+
+### 📊 **Figure 2 – Multi-Product Sales Line Plot**  
+Sales trends of six products with transparent lines and external legend.
+
+[![Figure 2 – All Products Sales Plot](images/Figure_2.png)](images/Figure_2.png)
+
+---
+
+### 📉 **Figure 3 – Face Cream vs. Face Wash Bar Plot**  
+Side-by-side bar plot with value labels for monthly comparisons.
+
+[![Figure 3 – Face Cream vs Face Wash Plot](images/Figure_2.png)](images/Figure_2.png)
+
+> [!TIP]  
+> Click any image to enlarge it or view the high-resolution version directly in your browser.
+
+---
 ## 🛠️ Installation  
 Get started in minutes on Windows, macOS, or Linux.  
 ### Windows  
